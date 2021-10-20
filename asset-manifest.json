@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MapleTimer/static/css/main.c11bc09b.chunk.css",
-    "main.js": "/MapleTimer/static/js/main.b7e11459.chunk.js",
-    "main.js.map": "/MapleTimer/static/js/main.b7e11459.chunk.js.map",
+    "main.js": "/MapleTimer/static/js/main.6701b3d8.chunk.js",
+    "main.js.map": "/MapleTimer/static/js/main.6701b3d8.chunk.js.map",
     "runtime-main.js": "/MapleTimer/static/js/runtime-main.859746bd.js",
     "runtime-main.js.map": "/MapleTimer/static/js/runtime-main.859746bd.js.map",
     "static/js/2.72e90f00.chunk.js": "/MapleTimer/static/js/2.72e90f00.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.859746bd.js",
     "static/js/2.72e90f00.chunk.js",
     "static/css/main.c11bc09b.chunk.css",
-    "static/js/main.b7e11459.chunk.js"
+    "static/js/main.6701b3d8.chunk.js"
   ]
 }
